@@ -1,3 +1,5 @@
+setuptools
+keplergl
 streamlit>=1.35,<2
 streamlit-folium>=0.19,<0.20
 streamlit-autorefresh>=1.0.1,<2
@@ -7,6 +9,4 @@ numpy>=1.25,<3
 requests>=2.31,<3
 geopy>=2.4,<3
 pyproj>=3.5,<4
-keplergl
 altair
-setuptools
