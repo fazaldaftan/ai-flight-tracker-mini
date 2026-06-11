@@ -9,3 +9,4 @@ geopy>=2.4,<3
 pyproj>=3.5,<4
 keplergl
 altair
+setuptools
