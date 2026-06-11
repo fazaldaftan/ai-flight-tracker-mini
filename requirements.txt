@@ -7,3 +7,5 @@ numpy>=1.25,<3
 requests>=2.31,<3
 geopy>=2.4,<3
 pyproj>=3.5,<4
+keplergl
+altair
