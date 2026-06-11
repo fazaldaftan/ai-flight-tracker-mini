@@ -211,6 +211,9 @@ def map_2d():
 
 # ---------------- 3D MODE ----------------
 def map_3d():
+    # Lazy import inside the function
+    from keplergl import KeplerGl
+    
     df = pd.DataFrame([{
         "latitude": f["lat"],
         "longitude": f["lon"],
