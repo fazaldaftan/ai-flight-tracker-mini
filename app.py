@@ -10,7 +10,7 @@ import numpy as np
 import streamlit as st
 from streamlit_folium import st_folium
 import folium
-from keplergl import Keplergl
+from keplergl import KeplerGl
 import streamlit.components.v1 as components
 import altair as alt
 from typing import Optional, Tuple
